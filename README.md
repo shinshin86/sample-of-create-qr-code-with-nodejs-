@@ -27,3 +27,12 @@ yarn cli:file:color # => "This is test text"
 ### qrcode-sample-blue.png
 
 ![blue color qrcode sample](./qrcode-sample-blue.png)
+
+
+
+## Node.js sample
+
+```bash
+yarn sample
+```
+

@@ -3,7 +3,8 @@
     "cli:text": "qrcode 'This is test text'",
     "cli:url": "qrcode 'https://nodejs.org/'",
     "cli:file": "qrcode -o qrcode-sample.png 'This is test text'",
-    "cli:file:color": "qrcode -d 00F -o qrcode-sample-blue.png 'This is blue text'"
+    "cli:file:color": "qrcode -d 00F -o qrcode-sample-blue.png 'This is blue text'",
+    "sample": "node nodejs-sample.js"
   },
   "dependencies": {
     "qrcode": "^1.3.3"
